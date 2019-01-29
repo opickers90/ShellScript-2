@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# This bash sciprt is used to backup a user'home directory to /tmp/
+
+if 	[ -z $1 ];
+	then

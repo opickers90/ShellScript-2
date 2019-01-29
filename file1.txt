@@ -1,0 +1,7 @@
+
+
+i am using keyboard to input text 
+cat command read my keyboard input, conver it to stdout which is instantly redirected to file1.txt
+That is, until i press ctrl+D 
+
+
